@@ -1,6 +1,14 @@
 # <HelloWorld! /> 
 <br><br>💬 Meu nome é Matheus Wisniewski;<br>📚 Atualmente estou estudando Desenvolvimento Web na Trybe;<br>✉️ Você pode entrar em contato comigo através do link abaixo 👇🏼<br><br>
 
+## <About />
+[![const matheus = {
+  birthYear: 1999,
+  nationality: 'Brazilian',
+  hobbies: ['skate', 'code', 'read', 'play', 'discover'],
+  tools: ['React', 'Nodejs', 'React-Router', 'BootsStrap', 'Sass', 'Rtl'],
+  goal: 'Leave a legacy on this world',
+};]]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-wisniewski/) 
