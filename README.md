@@ -12,7 +12,6 @@ const matheus = {
   nationality: 'Brazilian',
   hobbies: ['Skate', 'Code', 'Read', 'Play'],
   tools: ['React', 'NodeJs', 'Bootstrap', 'JS', 'CSS3', 'HTML5', 'RTL'],
-  goal: 'Leave a legacy on this tiny big world',
 };
 ```
 
