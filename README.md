@@ -2,7 +2,7 @@
 <br><br>💬 Meu nome é Matheus Wisniewski;<br>📚 Atualmente estou estudando Desenvolvimento Web na Trybe;<br>✉️ Você pode entrar em contato comigo através do link abaixo 👇🏼<br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-wisniewski/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-wisniewski/) <br>
 📧 maahwiski@gmail.com
 
 ## <About./>
